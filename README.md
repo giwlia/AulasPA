@@ -1,5 +1,5 @@
 # AulasPA
-conversão do dólar
+Conversão do dólar
 https://scratch.mit.edu/projects/498824506
 
 Conversor temperatura °F para °C
